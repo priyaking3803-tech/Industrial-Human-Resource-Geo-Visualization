@@ -47,3 +47,55 @@ Analyze employee reviews and feedback.
 Build an interactive Streamlit dashboard.
 
 📊 Dashboard Visualization
+
+![images alt](https://github.com/priyaking3803-tech/Industrial-Human-Resource-Geo-Visualization/blob/c2b33e663e015895ce208bb34c23f0121486cef9/employee-measurement-metrics-dashboard.jpg)
+The dashboard includes:
+
+📍 Workforce geographic distribution map
+📍 Department-wise employee analysis
+📍 Industry distribution charts
+📍 HR insights visualization
+
+📂 Project Structure
+Industrial-Human-Resource-Geo-Visualization
+│
+├── data
+│   └── hr_dataset.csv
+│
+├── notebooks
+│   └── eda_analysis.ipynb
+│
+├── app
+│   └── streamlit_app.py
+│
+├── images
+│   ├── banner.png
+│   ├── workflow.png
+│   └── dashboard.png
+│
+└── README.md
+🚀 How to Run the Project
+Clone Repository
+git clone https://github.com/yourusername/Industrial-Human-Resource-Geo-Visualization.git
+Install Libraries
+pip install -r requirements.txt
+Run Streamlit App
+streamlit run app.py
+📈 Key Insights
+
+📍 Workforce concentration varies across geographic regions
+📍 Some industries employ more workers than others
+📍 Data visualization helps identify workforce clusters
+📍 NLP reveals insights from employee feedback
+
+🔮 Future Improvements
+
+⭐ Real-time HR data integration
+⭐ Advanced NLP sentiment analysis
+⭐ Machine learning workforce prediction
+⭐ Cloud deployment for dashboard
+
+👩‍💻 Author
+
+Priyanka
+Data Science Portfolio Project
