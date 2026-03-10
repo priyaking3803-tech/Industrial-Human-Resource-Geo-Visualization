@@ -1,2 +1,3 @@
-# Industrial-Human-Resource-Geo-Visualization
-project
+
+🌍 Industrial Human Resource Geo-Visualization
+🖼️ Project Banner
