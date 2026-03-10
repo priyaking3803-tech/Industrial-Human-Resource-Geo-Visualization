@@ -26,3 +26,24 @@ Technology	Purpose
 🧠 NLP Libraries	Text Analysis
 ⚡ Streamlit	Dashboard
 🗂 GitHub	Version Control
+📊 Project Workflow
+![image alt](https://github.com/priyaking3803-tech/Industrial-Human-Resource-Geo-Visualization/blob/3f4fd9d57e1865f65716aa0b97556f82e0556b71/43303Data-Pipeline-graphic-crop.png)
+1️⃣ Data Collection
+Gather HR datasets including employee location, department, and feedback.
+
+2️⃣ Data Cleaning
+Handle missing values and format the dataset properly.
+
+3️⃣ Exploratory Data Analysis (EDA)
+Analyze workforce patterns and trends.
+
+4️⃣ Visualization
+Create charts, graphs, and geographic maps.
+
+5️⃣ Natural Language Processing (NLP)
+Analyze employee reviews and feedback.
+
+6️⃣ Dashboard Development
+Build an interactive Streamlit dashboard.
+
+📊 Dashboard Visualization
