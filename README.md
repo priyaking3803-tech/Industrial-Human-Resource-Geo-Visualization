@@ -1,2 +1,10 @@
 ![image alt](https://github.com/priyaking3803-tech/Industrial-Human-Resource-Geo-Visualization/blob/dffe37737be609ef2f30d403b738cb58c70901c5/geo.png)
 🌍 Industrial Human Resource Geo-Visualization
+
+📌 Project Overview
+
+The Industrial Human Resource Geo-Visualization project analyzes workforce data across different geographic locations.
+
+This project combines Exploratory Data Analysis (EDA), Data Visualization, and Natural Language Processing (NLP) to understand workforce distribution, identify patterns, and generate useful HR insights.
+
+By transforming raw HR datasets into visual dashboards and geographic maps, the project helps organizations improve human resource planning and strategic decision-making.
